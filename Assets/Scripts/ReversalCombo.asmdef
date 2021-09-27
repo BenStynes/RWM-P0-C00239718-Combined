@@ -1,0 +1,17 @@
+{
+    "name": "ReversalCombo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d210c6d4758c7684db00009203c2d71a",
+        "GUID:841a9d98a3709644cb31dbfca7424a02"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
